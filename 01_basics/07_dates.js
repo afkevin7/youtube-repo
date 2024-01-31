@@ -2,6 +2,7 @@
 
 let myDates = new Date()
 
+// console.log(myDates)
 // console.log(myDates.toString());
 // console.log(myDates.toDateString());
 // console.log(myDates.toISOString());
@@ -20,10 +21,10 @@ let myCreateDate2 = new Date("2022-3-17")
 // console.log(myCreateDate2.toLocaleString());
 
 let myTimeStamp = Date.now()
-// console.log(myTimeStamp);
-// console.log(myCreateDate.getTime());
-// console.log(Math.floor(Date.now()/1000));
+console.log(myTimeStamp);
+console.log(myCreateDate.getTime());
+console.log(Math.floor(Date.now()/1000));
 
 let newDate = new Date()
-console.log(newDate);
-console.log(newDate.getMonth());
+// console.log(newDate);
+// console.log(newDate.getMonth());

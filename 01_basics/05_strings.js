@@ -21,7 +21,7 @@ const gameName = new String("kevin-hc-com")
 // const anotherString = gameName.slice(-11,4)
 // console.log(anotherString);
 
-// const newStringOne = "  kevin   "
+const newStringOne = "  kevin   "
 // console.log(newStringOne);
 // console.log(newStringOne.trim());
 
