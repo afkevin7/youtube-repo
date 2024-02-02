@@ -25,7 +25,7 @@ const emptyObj= {}
 //     console.log("true");    
 // }
 
-// Nullish Coalescing Operator (??): null undefined
+// Nullish Coalescing Operator (??): null undefined //The nullish coalescing (??) operator is a logical operator that returns its right-hand side operand when its left-hand side operand is null or undefined, and otherwise returns its left-hand side operand
 
 let val1;
 // val1 = 5 ?? 10

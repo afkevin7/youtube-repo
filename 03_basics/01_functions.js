@@ -24,7 +24,7 @@ const result = addTwoNumbers(3,4)
 // console.log(result)
 
 function loginUserMessage(username="Sam") {
-    if(!username){
+    if(!username){    // !username means undefined
         console.log("Please enter the username")
         return
     }
